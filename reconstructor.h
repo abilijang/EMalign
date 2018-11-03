@@ -9,7 +9,7 @@ public:
 	std::string filename;
 	complex * data;
 	std::vector<complex> fimg;
-	eud
+	euler
 
 public:
 	Reconstructor() {}

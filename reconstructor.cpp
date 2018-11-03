@@ -2,4 +2,5 @@
 
 void Reconstructor::reconstruct() {
 
+	for ()
 }
